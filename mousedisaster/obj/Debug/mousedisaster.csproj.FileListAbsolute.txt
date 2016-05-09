@@ -1,0 +1,9 @@
+E:\练习\mousedisaster\mousedisaster\bin\Debug\mousedisaster.exe
+E:\练习\mousedisaster\mousedisaster\bin\Debug\mousedisaster.pdb
+E:\练习\mousedisaster\mousedisaster\obj\Debug\ResolveAssemblyReference.cache
+E:\练习\mousedisaster\mousedisaster\obj\Debug\mousedisaster.Form1.resources
+E:\练习\mousedisaster\mousedisaster\obj\Debug\mousedisaster.Properties.Resources.resources
+E:\练习\mousedisaster\mousedisaster\obj\Debug\mousedisaster.csproj.GenerateResource.Cache
+E:\练习\mousedisaster\mousedisaster\obj\Debug\mousedisaster.exe
+E:\练习\mousedisaster\mousedisaster\obj\Debug\mousedisaster.pdb
+E:\练习\mousedisaster\mousedisaster\obj\Debug\mousedisaster.Main.resources
